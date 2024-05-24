@@ -1,1 +1,1 @@
-# projeto5
+# Nessa branch fiz as funções de adicionar contato pessoal e trabalho , listar os dois contatos , deletar os dois contatos , alterar os dois contatos e salvar e carregar os dois contatos . E também fiz as funções de validação do email e telefone único.
